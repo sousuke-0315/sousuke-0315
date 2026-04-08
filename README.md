@@ -17,7 +17,7 @@
 
 ```typescript
 const sosuke = {
-  name:       "中山 創介 (Nakayama Sosuke)",
+  name:       "Sosuke",
   location:   "Kobe, Japan 🇯🇵",
   university: "Osaka Institute of Technology",
   department: "Robotics & Design / System Design Engineering (4th year)",
