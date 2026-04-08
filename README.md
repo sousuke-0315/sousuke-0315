@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Hi%20there%2C%20I'm%20Sosuke%20%F0%9F%91%8B&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Creative%20Developer%20%26%20Student&descAlignY=58&descSize=18" />
-
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Engineering+student+%40+Osaka+Institute+of+Technology;Building+things+with+Python+%2F+Next.js+%2F+Flutter;Passionate+about+EdTech+%26+Metaverse+Research)](https://git.io/typing-svg)
 
